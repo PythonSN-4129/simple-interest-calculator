@@ -1,5 +1,7 @@
 #!/bin/bash
 
+
+# fixed typo
 echo "Simple Interest Calculator"
 
 # Input
