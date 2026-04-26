@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+# another fix
 # fixed typo
 echo "Simple Interest Calculator"
 
